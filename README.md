@@ -1,5 +1,5 @@
-Nama    : Kevin Ivan Eda Radhiyya
+Nama    : Muhammad Iqbal
 
-NPM     : 2201233210
+NPM     : 2206082152
 
-Kelas   : PBP B
+Kelas   : PBP A
